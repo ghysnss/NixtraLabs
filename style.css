@@ -9,8 +9,9 @@ html {
 }
 
 body {
-    background: linear-gradient(135deg, #0f0f0f, #1a1a40, #3a0ca3);
-    background-attachment: fixed;
+    font-family: Arial, sans-serif;
+    background: #0a0a0f;
+    color: white;
 }
 
 
